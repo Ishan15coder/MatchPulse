@@ -4,3 +4,5 @@ node_modules/
 *.txt
 .venv/
 todo.md
+api/node_modules/
+api/dist/
